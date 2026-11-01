@@ -1,0 +1,39 @@
+# "Fresh Court" light theme — calm teal/emerald accents on warm off-white.
+# Native Streamlit theming only; no custom CSS required.
+
+[theme]
+base = "light"
+primaryColor = "#0F766E"
+backgroundColor = "#F8FAF9"
+secondaryBackgroundColor = "#EDF3F1"
+codeBackgroundColor = "#E8EFED"
+textColor = "#1B2A27"
+linkColor = "#0F766E"
+borderColor = "#D6E0DC"
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "8px"
+buttonRadius = "8px"
+font = "sans-serif"
+codeFont = "monospace"
+baseFontSize = 14
+headingFontWeights = [600, 600, 600, 600, 600, 600]
+linkUnderline = false
+chartCategoricalColors = ["#0F766E", "#E0A13A", "#3B82F6", "#BE5A83", "#7C6FD1", "#5B8C5A", "#94A3B8"]
+chartSequentialColors = ["#E6F4EF", "#C9E7DD", "#A3D6C7", "#75C0AC", "#47A78F", "#2A8C74", "#0F766E", "#0A5C57", "#084743", "#063330"]
+greenColor = "#157F3D"
+redColor = "#B42318"
+orangeColor = "#B54708"
+yellowColor = "#8A6100"
+blueColor = "#0B6BCB"
+violetColor = "#6D28D9"
+grayColor = "#5B6B67"
+dataframeBorderColor = "#D6E0DC"
+dataframeHeaderBackgroundColor = "#EDF3F1"
+
+[theme.sidebar]
+backgroundColor = "#EEF3F1"
+secondaryBackgroundColor = "#E3EBE8"
+textColor = "#1B2A27"
+borderColor = "#D6E0DC"
+primaryColor = "#0F766E"
